@@ -12,7 +12,7 @@
 - 📚 Always learning and improving my skills to stay updated with the latest trends in web development.
 
 
-### Let’s Connect
+### Let’s Connect 😄
 - 📧 Reach out to me at: [tharunprajitha2023@gmail.com]
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kirri-tharun-a3b43124b/)
 <br/>
