@@ -54,8 +54,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg" />
 </picture> -->
-<br>
-<h2>🐍 GitHub Contribution Snake</h2>  
+
+<!-- <h2>🐍 GitHub Contribution Snake</h2>  -->
 <!--
 #### 🌞 Light Mode:  
 ![GitHub Snake Light](https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg)  
