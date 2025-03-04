@@ -49,8 +49,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirri-tharun-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=kirri-tharun-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kirri-tharun-05&theme=highcontrast&hide_border=false)<br/>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg" />
-</picture>
