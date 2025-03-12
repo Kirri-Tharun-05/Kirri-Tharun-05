@@ -56,7 +56,7 @@
 </picture> -->
 
 <!--<h2>🐍 GitHub Contributions </h2> -->
-<h2>🐍 GitHub Contributions </h2><h4>A glimpse of my code adventures!</h4>
+<h2>🐍 A Timeline of My Code Contributions </h2>
 <!--
 #### 🌞 Light Mode:  
 ![GitHub Snake Light](https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg)  
