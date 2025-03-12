@@ -55,7 +55,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg" />
 </picture> -->
 
-<!-- <h2>🐍 GitHub Contribution Snake</h2>  -->
+<!--<h2>🐍 GitHub Contributions </h2> -->
+<h2>🐍 GitHub Contributions </h2><h4>A glimpse of my code adventures!</h4>
 <!--
 #### 🌞 Light Mode:  
 ![GitHub Snake Light](https://raw.githubusercontent.com/Kirri-Tharun-05/Kirri-Tharun-05/output/github-snake.svg)  
