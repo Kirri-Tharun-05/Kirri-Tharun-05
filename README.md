@@ -8,7 +8,7 @@
 - 👨‍💻 I'm a full-stack developer with a focus on building user-friendly and scalable web applications.
 - 🎓 I’ve completed a full-stack web development course at Apna College.
 - 🌍 I’m passionate about creating seamless web experiences and solving real-world problems with technology.
-- 💻 You can check out my latest project **[Wanderlust](https://wanderlust-qb7l.onrender.com/listings)** and the source code on GitHub.
+- 💻 You can check out my latest project **[NexCall](https://nex-call-luk0.onrender.com/home)** and the source code on GitHub.
 - 📚 Always learning and improving my skills to stay updated with the latest trends in web development.
 
 
